@@ -1,0 +1,193 @@
+* {
+  padding: 0;
+  margin: 0;
+  background: 100vh;
+}
+
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.navbar-container img {
+  height: 40px;
+  position: absolute;
+  left: 88px;
+}
+.list :nth-child(1) {
+  text-decoration: underline;
+  border-bottom-width: 200px;
+  text-decoration-color: black;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+  font-family: "orbitron";
+  margin-left: 70px;
+  text-shadow: 1.4px 0px 1px;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  font-family: "Orbitron";
+  text-shadow: 0 0 black;
+  margin-right: -107px;
+  text-decoration: none;
+  justify-content: space-between;
+  margin-top: 18px;
+}
+.search-icon svg {
+  height: 20px;
+  margin-right: 200px;
+  margin-top: 10px;
+}
+.nav-button {
+  padding: 8px 39px 0px 39px;
+  border-radius: 12px;
+  color: grey;
+  font-size: 20px;
+  background-color: white;
+  text-shadow: 0px 0px 0.5px;
+  margin-top: -10px;
+  box-shadow: 0px 1px 0.5px 0.5px inset;
+}
+.btnn {
+  padding-left: 45px;
+  margin-top: -20px;
+}
+.list :nth-child(2) {
+  margin-left: 70px;
+  letter-spacing: 1px;
+  text-shadow: 1px 0px 1px;
+}
+.list :nth-child(3) {
+  margin-left: 70px;
+  letter-spacing: 1px;
+  text-shadow: 1px 0px 1px;
+}
+.list :nth-child(4) {
+  margin-left: 70px;
+  letter-spacing: 1px;
+  text-shadow: 1px 0px 1px;
+}
+
+.list :nth-child(5) {
+  margin-left: 70px;
+  letter-spacing: 1px;
+  text-shadow: 1px 0px 1px;
+}
+.main img {
+  margin-top: -350px;
+  margin-left: 90px;
+  width: 364px;
+  height: 430px;
+  position: absolute;
+  top: 506px;
+}
+.hero-container-right {
+  margin-left: 600px;
+  margin-top: -380px;
+  position: absolute;
+  top: 678px;
+}
+.hero-heading {
+  font-size: 50px;
+  font-family: "orbitron";
+  margin-left: -25px;
+  margin-top: -85px;
+}
+.hero-description {
+  justify-content: center;
+  padding-left: 60px;
+  padding-right: 150px;
+  text-align: center;
+  color: grey;
+  text-shadow: 0px 0px 54px;
+  font-size: 14px;
+  margin-top: 45px;
+}
+.btn1 {
+  margin-top: 80px;
+  padding-left: 150px;
+}
+.button-email {
+  background-color: white;
+  font-size: 17px;
+  font-family: "Orbitron";
+  border-radius: 10px;
+  padding: 3px 25px;
+  color: #625a5a;
+  text-shadow: 0px 0px 2px;
+  border-block-color: black;
+  border-left-color: black;
+}
+.button-join {
+  background-color: black;
+  font-size: 17px;
+  font-family: "Orbitron";
+  border-radius: 10px;
+  padding: 3px 5px;
+  color: white;
+  text-shadow: 0px 0px 2px;
+  border-block-color: black;
+  border-left-color: black;
+  margin-left: 15px;
+}
+.footer {
+  margin-top: 87px;
+  padding-left: 258px;
+  font-size: 20px;
+  color: grey;
+  line-height: 0;
+}
+.icons {
+  margin-left: -33px;
+  display: flex;
+  margin-top: 30px;
+}
+.icons img {
+  margin-right: 15px;
+  height: 30px;
+}
+.globe img {
+  margin: 0;
+  height: 66px;
+  position: absolute;
+  top: 109px;
+  left: 702px;
+  right: 0px;
+  bottom: 20px;
+}
+.star img {
+  margin: 0;
+  height: 60px;
+  position: absolute;
+  top: 160px;
+  left: 1130px;
+  right: 0px;
+  bottom: 20px;
+}
+.star2 img {
+  margin: 0;
+  height: 38px;
+  position: absolute;
+  top: 565px;
+  left: 594px;
+  right: 0px;
+  bottom: 0px;
+}
+.square img {
+  margin: 0;
+  height: 271px;
+  top: 358px;
+  left: 243px;
+  right: 0px;
+  bottom: 0px;
+  width: 271px;
+  z-index: -40;
+  position: absolute;
+}
