@@ -9,4 +9,4 @@ i have used
 # What i lerned 
 learned about the positioning and responsiveness.
 # live link 
-[here](https://justicecourt.netlify.app/)
+[here](project-3-court-justice-zr4l.vercel.app)
