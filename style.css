@@ -230,7 +230,7 @@ body {
     display: none;
   }
 }
-@media only screen and (max-width: 273px) {
+@media only screen and (max-width: 362px) {
   .button-small {
     margin-left: -23px;
     font-size: 9px;
@@ -251,7 +251,7 @@ body {
     width: 51vh;
 }
   .body img {
-    height: 192px;
+    height: 292px;
     width: 54vh;
     margin-left: -63px;
     margin-top: -66px;
