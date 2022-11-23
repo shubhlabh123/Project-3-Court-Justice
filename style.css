@@ -230,7 +230,7 @@ body {
     display: none;
   }
 }
-@media only screen and (max-width: 272px) {
+@media only screen and (max-width: 273px) {
   .button-small {
     margin-left: -23px;
     font-size: 9px;
