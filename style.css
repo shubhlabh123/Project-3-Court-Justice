@@ -230,3 +230,30 @@ body {
     display: none;
   }
 }
+@media only screen and (max-width: 272px) {
+  .button-small {
+    margin-left: -23px;
+    font-size: 9px;
+    margin-top: -3px;
+    margin-right: -38px;
+    padding: 10px;
+  }
+  .hero-heading {
+    width: 43vh;
+    font-size: 26px;
+    margin-left: -26px;
+    margin-top: -33px;
+}
+  .heading h4 {
+    font-size: 8px;
+    margin-top: 24px;
+    margin-left: -21px;
+    width: 51vh;
+}
+  .body img {
+    height: 192px;
+    width: 54vh;
+    margin-left: -63px;
+    margin-top: -66px;
+}
+  }
